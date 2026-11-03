@@ -4,9 +4,7 @@ description: Customer-service reply library and auto-reply rule pack — intent 
 version: 1.0.0
 author: RAY
 license: CC-BY-4.0
-tags: "[customer-support, chatbot, helpdesk, scripts, automation]"
-metadata:
-
+tags: [customer-support, chatbot, helpdesk, scripts, automation]
 pricing:
   free: Free — 3 generic replies/week
   pro: $9/month — industry-custom + objection matrix + de-escalation flow
@@ -39,7 +37,6 @@ monetization:
   upgrade_path: Pro Monthly -> Pro Annual -> Enterprise
 
 ---
-
 # Customer Service Reply Pack
 
 ## What problem it solves
