@@ -3,7 +3,7 @@
 > Customer-service reply library and auto-reply rule pack — intent classification, emotion de-escalation (LEAP method), objection-handling matrix, escalation red lines. Outputs a JSON rule table you can import into any helpdesk or chatbot.
 
 **Category:** customer-support  |  **License:** CC-BY-4.0  |  **Version:** 1.0.0
-**Price:** Free on GitHub & skills.sh (CC BY 4.0). Curated bundle on Gumroad: $9 (Pro $29).
+**Price:** Free on GitHub & skills.sh (CC BY 4.0). Pro & Enterprise on Agensi: $9/month · $90/year · $99/month.
 
 ## What it does
 
@@ -37,7 +37,19 @@ Or clone: `git clone https://github.com/chinabizskills/cs-reply-pack.git`
 
 ## Pricing & license
 
-Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required). A curated, expanded bundle (with the Pro templates) is sold on Gumroad for $9 (Pro $29). The free GitHub/skills.sh version is the complete, working skill.
+Free on GitHub & skills.sh under **CC BY 4.0** — the complete core workflow, free to use, share and adapt (attribution required).
+Pro and Enterprise are subscriptions on Agensi:
+
+| Tier | Price | What you get |
+|---|---|---|
+| Free | $0 | 3 generic replies/week |
+| Pro Monthly | $9/month | industry-custom + objection matrix + de-escalation flow |
+| Pro Annual | $90/year | Same Pro benefits, billed yearly |
+| Enterprise | $99/month | KB integration + escalation rules |
+
+Subscribe: https://www.agensi.io/skills/customer-service-reply-pack
+
+Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required).
 
 ## Tags
 
