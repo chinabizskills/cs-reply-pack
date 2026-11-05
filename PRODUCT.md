@@ -12,7 +12,6 @@
 | **Pro Monthly** | **$9/month — industry-custom + objection matrix + de-escalation flow** | Unlimited + full Pro pack + export + template library |
 | Pro Annual | $90/year | Same Pro benefits, annual discount |
 | Enterprise | $99/month (KB integration + escalation rules) | Team unlimited + enterprise templates |
-| Pay per use | $5 one-time (industry pack) | Zero-friction entry for low-frequency users |
 
 ## 2. Pricing skeleton
 
@@ -24,7 +23,7 @@ predictable revenue, heavy-user value captured.
 ```text
 Free tier (Free — 3 generic replies/week)
   → quota exhausted -> paywall prompt
-  → 7-day free trial (no card required)
+  → subscribe on Agensi: https://www.agensi.io/skills/customer-service-reply-pack
   → Pro Monthly $9/month — industry-custom + objection matrix + de-escalation flow
   → Pro Annual $90/year
   → Enterprise $99/month (KB integration + escalation rules)
@@ -32,8 +31,6 @@ Free tier (Free — 3 generic replies/week)
 
 ## 4. Success metrics (3 months)
 
-- Free → trial ≥ 15%
-- Trial → paid ≥ 25%
 - Monthly retention ≥ 60%
 - NPS ≥ 45
 
